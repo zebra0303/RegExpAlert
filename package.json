@@ -1,0 +1,16 @@
+{
+  "name": "RegExpAlert",
+  "version": "0.0.1",
+  "description": "웹개발팀 일정 알림(규식이형)",
+  "main": "index.js",
+  "author": "Larry Kim (zebra0303@gmail.com)",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "scripts": {
+    "test": "node index.js --env=test"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
